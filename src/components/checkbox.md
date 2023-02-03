@@ -4,5 +4,4 @@ tags: input-controls
 ---
 
 
-Dragée wafer lollipop liquorice carrot cake. Icing chocolate bar dragée sesame snaps biscuit candy gummi bears. Candy canes toffee toffee pudding muffin topping macaroon jelly.
-Halvah jelly cupcake jelly-o muffin croissant. Apple pie biscuit dessert apple pie donut. Sweet gummi bears donut powder jelly-o jujubes chupa chups bonbon.
+A **checkbox** is used either as a standalone checkbox — a single option that the user can turn on or off — or as a multi-option variant — a list of options that the user can select any amount of. 
